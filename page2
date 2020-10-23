@@ -1,0 +1,28 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Invitations</title>
+  <meta name="description" content="Invitations to the Anthropocene">
+  <meta name="author" content="SitePoint">
+
+  <link rel="stylesheet" href="css/styles.css">
+  <style>
+      body {
+        background-color: #737373;
+      }
+  </style>
+
+</head>
+
+<body>
+  <script src="js/scripts.js"></script>
+  <p>
+  Testing second page
+  </p>
+</body>
+</html>
+
+background-color: #1c87c9;
