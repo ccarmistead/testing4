@@ -1,4 +1,12 @@
 body {
   color: purple;
   font: 1.3rem Inconsolata, monospace;
+  align: center;
+}
+
+#index {
+  margin: auto 20px;
+  width: auto;
+  height: 2000px;
+  background-color: grey;
 }
