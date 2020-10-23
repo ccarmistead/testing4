@@ -1,7 +1,7 @@
 body {
   color: purple;
   font: 1.3rem Inconsolata, monospace;
-  align: center;
+  text-align: center;
 }
 
 #index {
